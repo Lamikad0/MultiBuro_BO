@@ -1,0 +1,6 @@
+Z:\PROJET CLERC\WinMultiburo\WinMultiBuro\MB_METIER\bin\Debug\MB_METIER.dll
+Z:\PROJET CLERC\WinMultiburo\WinMultiBuro\MB_METIER\bin\Debug\MB_METIER.pdb
+Z:\PROJET CLERC\WinMultiburo\WinMultiBuro\MB_METIER\obj\Debug\MB_METIER.csproj.AssemblyReference.cache
+Z:\PROJET CLERC\WinMultiburo\WinMultiBuro\MB_METIER\obj\Debug\MB_METIER.csproj.CoreCompileInputs.cache
+Z:\PROJET CLERC\WinMultiburo\WinMultiBuro\MB_METIER\obj\Debug\MB_METIER.dll
+Z:\PROJET CLERC\WinMultiburo\WinMultiBuro\MB_METIER\obj\Debug\MB_METIER.pdb
